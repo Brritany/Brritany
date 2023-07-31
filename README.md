@@ -9,11 +9,11 @@
 </p>
 
 ## 👋 Hi there, I'm Yong Zhen Huang
-Experienced Nurse & Big Data Technology Researcher | Specialized in Oncology, ICU, and Emergency Nursing | Passionate about Data Analysis, Machine Learning, and NLP
+Experienced Nurse & Master Student of Data Science | Specialized in Oncology, ICU, and Emergency Nursing | Passionate about Data Science, Data Analysis, Machine Learning, Deep Learning and NLP
 
 ### 👩‍⚕️ Professional Background
 
-I am an experienced Nurse currently working under the renowned National Taiwan University Hospital system. In addition to my clinical experience, I am concurrently enrolled in the Big Data Technology and Management program at Taipei Medical University, where I am combining my passion for healthcare and technology to drive patient outcomes.
+I am an experienced Nurse currently working under the renowned National Taiwan University Hospital system. In addition to my clinical experience, I am concurrently enrolled in the Graduate lnstitute of Data Science program at Taipei Medical University, where I am combining my passion for healthcare and technology to drive patient outcomes.
 
 My expertise in the nursing field spans across Oncology, Intensive Care Unit (ICU), and Emergency nursing, equipping me with comprehensive clinical skills and a deep understanding of patient care. I am particularly interested in employing advanced data techniques to further enhance healthcare practices.
 
@@ -23,8 +23,6 @@ While pursuing my studies in the Big Data program, I have developed robust capab
 1. Huang, Y-Z and Kuan, C-C. (2022). Vaccination to reduce severe COVID-19 and mortality in COVID-19 patients: a systematic review and meta-analysis. European Review for Medical & Pharmacological Sciences, 26(5).
 
 As a healthcare professional, I believe in the power of blending traditional nursing with modern data technologies to pave the way for a more efficient and effective healthcare system. I am eager to connect with like-minded professionals and engage in enlightening discussions.
-
-
 
 
 <!--   my-skils -->
