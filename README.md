@@ -11,7 +11,7 @@
 ## 👋 Hi there, I'm Yong Zhen Huang
 Experienced Nurse & Master Student of Data Science | Specialized in Oncology, ICU, and Emergency Nursing | Passionate about Data Science, Data Analysis, Machine Learning, Deep Learning and NLP
 
-### 👩‍⚕️ Professional Background
+## 👩‍⚕️ Professional Background
 
 I am an experienced Nurse currently working under the renowned National Taiwan University Hospital system. In addition to my clinical experience, I am concurrently enrolled in the Graduate lnstitute of Data Science program at Taipei Medical University, where I am combining my passion for healthcare and technology to drive patient outcomes.
 
@@ -19,14 +19,9 @@ My expertise in the nursing field spans across Oncology, Intensive Care Unit (IC
 
 While pursuing my studies in the Big Data program, I have developed robust capabilities in data processing, machine learning, deep learning, and natural language processing. I am continually seeking opportunities to apply these technical skills in healthcare, with the ultimate aim of improving patient care and advancing medical research.
 
-### 📚 Publications
-1. Huang, Y-Z and Kuan, C-C. (2022). Vaccination to reduce severe COVID-19 and mortality in COVID-19 patients: a systematic review and meta-analysis. European Review for Medical & Pharmacological Sciences, 26(5).
-
-As a healthcare professional, I believe in the power of blending traditional nursing with modern data technologies to pave the way for a more efficient and effective healthcare system. I am eager to connect with like-minded professionals and engage in enlightening discussions.
-
-
 <!--   my-skils -->
-### My skils
+## My skils
+### Computer Science
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -43,3 +38,14 @@ As a healthcare professional, I believe in the power of blending traditional nur
 <!-- 可在這裡加入其他圖片的代碼，路徑需一致 -->
 </p>
 
+### Medical
+<p align="center"> 
+<img src="./certificate/CochraneMemberBadge.png" alt="ibm" width="25%">
+
+<!-- 可在這裡加入其他圖片的代碼，路徑需一致 -->
+</p>
+
+## 📚 Publications
+1. Huang, Y-Z and Kuan, C-C. (2022). Vaccination to reduce severe COVID-19 and mortality in COVID-19 patients: a systematic review and meta-analysis. European Review for Medical & Pharmacological Sciences, 26(5).
+
+As a healthcare professional, I believe in the power of blending traditional nursing with modern data technologies to pave the way for a more efficient and effective healthcare system. I am eager to connect with like-minded professionals and engage in enlightening discussions.
