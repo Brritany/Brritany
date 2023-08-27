@@ -42,10 +42,11 @@ As a healthcare professional, I believe in the power of blending traditional nur
 
 ### Medical
 <p align="center"> 
-<img src="./certificate/CochraneMemberBadge.png" alt="ibm" width="25%">
-<img src="./certificate/NTUH.jpeg" alt="ibm" width="25%">
-<img src="./certificate/TEBMA.jpeg" alt="ibm" width="25%">
-    
+<img src="./certificate/CochraneMemberBadge.png" alt="ibm" width="20%">
+<img src="./certificate/TEBMA.jpeg" alt="ibm" width="20%">
+<img src="./certificate/NTUH.jpeg" alt="ibm" width="20%">
+<img src="./certificate/NTUCC.jpeg" alt="ibm" width="20%">
+
 <!-- 可在這裡加入其他圖片的代碼，路徑需一致 -->
 </p>
 
