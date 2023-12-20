@@ -51,6 +51,9 @@ As a healthcare professional, I believe in the power of blending traditional nur
 </p>
 
 ## 📚 Publications
+### Journal Articles
 1. Yong-Zhen Huang, and Chiao-Chi Kuan (2022). Vaccination to reduce severe COVID-19 and mortality in COVID-19 patients: a systematic review and meta-analysis. *European Review for Medical & Pharmacological Sciences, 26(5)*.
 2. Yong-Zhen Huang, and Chiao-Chi Kuan (2022). Evidence-Based to Use Incentive Spirometers for Prevention of Postoperative Pulmonary Complications. *the 7th International Nursing Research Conference of World Academy of Nursing Science (7th WANS)*.
-3. Yong-Zhen Huang, Eugene Sy, Yi-Xuan Lin, Yu-Lun Hsieh and Yung-Chun Chang (2023). TMUNLP at the NTCIR-17 MedNLP-SC Task. *Proceedings of the 17th NTCIR conference on evaluation of information access technologies*.
+
+### Conference Papers
+1. Yong-Zhen Huang, Eugene Sy, Yi-Xuan Lin, Yu-Lun Hsieh and Yung-Chun Chang (2023). TMUNLP at the NTCIR-17 MedNLP-SC Task. *Proceedings of the 17th NTCIR conference on evaluation of information access technologies*.
