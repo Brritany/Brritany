@@ -33,7 +33,7 @@ As a healthcare professional, I believe in the power of blending traditional nur
 | **Tools & Platform**                            | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 
-<p align="center"> 
+<p align="center">
 <img src="./certificate/Coursera 2JTJHMUU2LNA_page-0001.jpg" alt="ibm" width="25%">
 <img src="./certificate/Coursera 3P5K3P6VULZK_page-0001.jpg" alt="ibm" width="25%">
 <img src="./certificate/Coursera MDBT4U3RVMM3_page-0001.jpg" alt="ibm" width="25%">
@@ -41,7 +41,7 @@ As a healthcare professional, I believe in the power of blending traditional nur
 </p>
 
 ### Medical
-<p align="center"> 
+<p align="center">
 <img src="./certificate/CochraneMemberBadge.png" alt="ibm" width="20%">
 <img src="./certificate/TEBMA.jpeg" alt="ibm" width="20%">
 <img src="./certificate/NTUH.jpeg" alt="ibm" width="20%">
@@ -51,5 +51,6 @@ As a healthcare professional, I believe in the power of blending traditional nur
 </p>
 
 ## 📚 Publications
-1. Yong-Zhen, Huang, and Chiao-Chi, Kuan (2022). Vaccination to reduce severe COVID-19 and mortality in COVID-19 patients: a systematic review and meta-analysis. *European Review for Medical & Pharmacological Sciences, 26(5)*.
-2. Yong-Zhen, Huang, and Chiao-Chi, Kuan (2022). Evidence-Based to Use Incentive Spirometers for Prevention of Postoperative Pulmonary Complications. *the 7th International Nursing Research Conference of World Academy of Nursing Science (7th WANS)*.
+1. Yong-Zhen Huang, and Chiao-Chi Kuan (2022). Vaccination to reduce severe COVID-19 and mortality in COVID-19 patients: a systematic review and meta-analysis. *European Review for Medical & Pharmacological Sciences, 26(5)*.
+2. Yong-Zhen Huang, and Chiao-Chi Kuan (2022). Evidence-Based to Use Incentive Spirometers for Prevention of Postoperative Pulmonary Complications. *the 7th International Nursing Research Conference of World Academy of Nursing Science (7th WANS)*.
+3. Yong-Zhen Huang, Eugene Sy, Yi-Xuan Lin, Yu-Lun Hsieh and Yung-Chun Chang (2023). TMUNLP at the NTCIR-17 MedNLP-SC Task. *Proceedings of the 17th NTCIR conference on evaluation of information access technologies*.
